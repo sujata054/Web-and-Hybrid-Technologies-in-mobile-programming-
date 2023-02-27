@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/90723058/221555321-b5a9a9e9-7420-4cdb-
 
 ## Acknowledgment
 
-TMDB :  A website to get movies information details.
+# TMDB :  A website to get crowed-sourced movies information database.
 
 
 ## Getting Started
