@@ -8,9 +8,15 @@ This is a movie application, with integrating api from The Movie Database (TMDB)
 
 
 
+## Features 
+* Plays (almost) any movies
+* Watch trailer
+* View movies information
+* Can save to watchlist
+* Works on mutiple planforms (Android , Chrome-web)
 
-
-
+## Acknowledgment
+#TMDB :  A website to get movies information details.
 
 
 ## Getting Started
