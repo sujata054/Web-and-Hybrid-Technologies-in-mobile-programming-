@@ -1,6 +1,6 @@
-# movieapp
+# movieapp (Movify)
 
-A new Flutter project.
+A new Flutter project of movies similar to Netflix that runs with tmdb api.
 
 ## Getting Started
 
