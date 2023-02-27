@@ -2,8 +2,11 @@
 This is a movie application, with integrating api from The Movie Database (TMDB).
 
 ##Preview
-<img width="276" alt="splash" src="https://user-images.githubusercontent.com/90723058/221550195-c713e4ab-5970-4e22-909c-f6687d1ed038.png"><img width="276" alt="login" src="https://user-images.githubusercontent.com/90723058/221550208-5744866e-d7a7-4660-b286-7ee9c02b4e7f.png"><img width="276" alt="home" src="https://user-images.githubusercontent.com/90723058/221550262-ffe02a98-c72e-4d44-b600-19c695474c53.png"><img width="276" alt="movie details" src="https://user-images.githubusercontent.com/90723058/221550303-97e51<img width="276" alt="favourite movie" src="https://user-images.githubusercontent.com/90723058/221550326-1f5a43bd-a198-4f49-a577-27c6823c6453.png">
-293-77a6-4b62-a00e-be161a4f6f86.png"><img width="276" alt="profile" src="https://user-images.githubusercontent.com/90723058/221550417-82c47d75-03f1-4ce1-b14a-102f32e1078c.png">
+
+
+<img width="276" alt="splash" src="https://user-images.githubusercontent.com/90723058/221550644-8f4ab6cc-38e0-42be-bb98-7cad7b43214d.png"> <img width="276" alt="login" src="https://user-images.githubusercontent.com/90723058/221550667-bb410bf5-8fe1-4157-bf7b-f424d2f3f651.png"> <img width="276" alt="home" src="https://user-images.githubusercontent.com/90723058/221550690-3a8e83b6-3b73-452c-9fc0-809e8f3b69d4.png"> <img width="276" alt="to rated and popular movie" src="https://user-images.githubusercontent.com/90723058/221550723-77a8f1d1-9173-465f-83a1-54ee0319bcd6.png"> <img width="276" alt="movie details" src="https://user-images.githubusercontent.com/90723058/221550780-f47900f3-0fe0-470f-ba29-2fdba7c4df59.png"> <img width="276" alt="favourite movie" src="https://user-images.githubusercontent.com/90723058/221550819-be29967f-10d4-494a-be99-c59cf0bf0e9c.png"> <img width="276" alt="profile" src="https://user-images.githubusercontent.com/90723058/221550873-d7b0497f-4e66-400c-91b8-a9a980bf7750.png"> <img width="715" alt="Screenshot 2023-02-27 at 13 22 21" src="https://user-images.githubusercontent.com/90723058/221551209-e46d17f3-525d-4fe2-8e1d-3d328c3f114b.png">
+
+
 
 
 
