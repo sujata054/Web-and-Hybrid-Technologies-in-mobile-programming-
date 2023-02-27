@@ -2,6 +2,9 @@
 
 A new Flutter project of movies similar to Netflix that runs with tmdb api.
 
+![Screenshot 2023-02-27 at 11 13 40](https://user-images.githubusercontent.com/90723058/221544478-20574a4a-015a-4d1c-9ac1-cb559d042c95.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
